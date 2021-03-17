@@ -1,4 +1,4 @@
-# Exercicio 2 (Editar o README.MD) :)
+# Exercicio 2 (Editar o README.MD)  :sparkles: 
 ## Este é meu projeto de página pessoal criada no work do reprograma
 ### Esse foi um projeto feito durante a seleção para o curso de front
 ### Nele, foi feito um site a partir dos principios de html e ccs
